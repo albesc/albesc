@@ -1,6 +1,6 @@
-## Hi there 👋
-🎓 I'm a fresh graduate student from Politeknik Caltex Riau, majoring Information Technology
-🌱 I’m currently learning Back-End Programming and Data Analysis
+## Hi there 👋<br>
+🎓 I'm a fresh graduate student from Politeknik Caltex Riau, majoring Information Technology<br>
+🌱 I’m currently learning Back-End Programming and Data Analysis<br>
 😄 Pronouns: He/Him
 
 <!--
