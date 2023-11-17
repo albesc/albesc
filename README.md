@@ -1,4 +1,7 @@
 ### Hi there 👋
+🎓 I'm a fresh graduate student from Politeknik Caltex Riau, majoring Information Technology
+🌱 I’m currently learning Back-End Programming and Data Analysis
+😄 Pronouns: He/Him
 
 <!--
 **albesc/albesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
